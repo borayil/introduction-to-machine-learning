@@ -1,5 +1,5 @@
 # Introduction to Machine Learning
-This repository contains Python code and LaTeX reports for the course `Introduction to Machine Learning`. Various machine learning algorithms have been implemented from scratch and discussed in detail, providing a hands-on approach to understanding the core concepts of each algorithm. The algorithms covered in this course are as follows:
+This repository contains Python code and LaTeX reports for a course I took in my Computing Science minor. Various machine learning algorithms have been implemented from scratch and discussed in detail, providing a hands-on approach to understanding the core concepts of each algorithm. The algorithms covered in this course are as follows:
 
 1. Learning Vector Quantization (LVQ)
     + Supervised learning technique for classification
