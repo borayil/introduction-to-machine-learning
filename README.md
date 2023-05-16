@@ -1,5 +1,5 @@
 # machinelearning
-Python code and LaTeX reports for the course `Introduction to Machine Learning`. Assignments implemented and reported are, in order:  
+Python code and LaTeX reports for the course `Introduction to Machine Learning`. Clustering, classification, quantization algorithms implemented from the core and reported are, in order:  
 1. Learning Vector Quantization
 2. Linear Regression
 3. Cross Validation
